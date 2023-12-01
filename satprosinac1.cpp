@@ -36,7 +36,7 @@ int main() {
 }
 
 
-//napisi funkciju koja u nekom polju integera, koje završava nekim brojem sve negativne brojve pretvori u pozitivne. napiši funkciju za ispis polja te ispiši sve brojeve prije i poslije pretvorbe
+//napisi funkciju koja u nekom polju integera, koje zavrÅ¡ava nekim brojem sve negativne brojve pretvori u pozitivne. napiÅ¡i funkciju za ispis polja te ispiÅ¡i sve brojeve prije i poslije pretvorbe
 
 #include <iostream>
 using namespace std;
@@ -111,7 +111,7 @@ int main() {
 }
 
 
-//napisi funkciju koja vrati BROJ elemenata koji su dijeljivi s 4. Polje završava brojem 0
+//napisi funkciju koja vrati BROJ elemenata koji su dijeljivi s 4. Polje zavrÅ¡ava brojem 0
 
 #include <iostream>
 using namespace std;
@@ -208,6 +208,9 @@ int najmanjiElement(int polje[])
 #include <iostream>
 using namespace std;
 
+// napsii funkciju koja sve razmake u nekom nizu zamijeni sa znakom $
+//napisi funkciju koja provjeri ispravnost velikiuh slova. veliko slovo mora biti nakon tocke. nakon tocke dolazi tocno jedan razmak.
+//napisi funkciju koja na kraj nekog niza doda drugi niz npr nizovi aaa bbbb spojeno je aaabbbb
 
 
 
